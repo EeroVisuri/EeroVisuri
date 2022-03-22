@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @EeroVisuri
-- 👀 I’m interested in programming in general
+- 👀 I’m interested in programming in general, mostly on backend stuff. 
+- I'm looking for work opportunities currently!
 - 🌱 I’m currently learning java's interfaces, streams, anonymous classes and such
 
 - 📫 How to reach me eero.visuri(at)gmail(dot)com
